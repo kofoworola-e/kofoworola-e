@@ -1,8 +1,9 @@
 # Hey there👋🏽
-🌸 My name is Kofoworola <br>
-👩🏽‍💻 I am a Data Scientist<br>
-📚 I studied Statistics at the University of Lagos<br>
-💼 I am actively learning and working on tasks to build my portfolio 
+🌸 I'm Kofoworola, aka big_kofsss<br>
+👩🏽‍💻 A passionate Data Scientist with a background in Statistics from the University of Lagos<br>
+🚀 Currently building my portfolio through hands-on projects and continuous learning<br>
+🔍 Feel free to explore my repositories to see what I'm working on<br>
+💬 Let's connect and share ideas — I'm always open to feedback, collaboration, or just a friendly chat!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kofoworola-egbinola-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/big_kofsss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kofoworola.anna3@gmail.com) 
