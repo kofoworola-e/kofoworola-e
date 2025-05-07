@@ -1,5 +1,5 @@
 # Hey there👋🏽
-🌸 I'm Kofoworola, aka big_kofsss<br>
+🌸 I'm Kofoworola<br>
 👩🏽‍💻 A passionate Data Scientist with a background in Statistics from the University of Lagos<br>
 🚀 Currently building my portfolio through hands-on projects and continuous learning<br>
 🔍 Feel free to explore my repositories to see what I'm working on<br>
@@ -13,7 +13,3 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kofoworola-e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kofoworola-e&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
